@@ -14,7 +14,7 @@ This library processes mostly non-publisher data.  This includes
 citations, 90-day readershp (called alsoreads), historical readership
 (called reads), simbad object ids, refereed status, downloads, etc.
 
-Ingest operations are controled by app.py.  It supports the following
+Ingest operations are controlled by app.py.  It supports the following
 commands:
   * help
   * createIngestTables: create sql column tables
